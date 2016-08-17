@@ -1,0 +1,55 @@
+html {
+    font-family: sans-serif;
+    background-color: #59CBE8;
+}
+
+body {
+    background-color: #59CBE8;
+}
+
+h1 {
+    padding: 30px;
+}
+
+.login {
+    display: none;
+}
+
+#ticketModal {
+    width: 1200px;
+}
+
+#navigation {
+    display: inline;
+    float: right;
+}
+
+#menu-navigation {
+    margin: auto;
+}
+
+.modal-center-btns {
+    margin: auto;
+}
+
+#priority {
+    float: right
+}
+
+#logo {
+    height: 120px;
+}
+
+.formhead {
+    padding-left: 30px;
+}
+
+#canvas {
+    border-radius: 2px;
+    background-color: gray;
+    height: 300px;
+}
+
+.main-raised {
+    background-color: white;
+}
